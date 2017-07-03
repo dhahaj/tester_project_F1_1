@@ -1,0 +1,6 @@
+ <?xml version="1.0"?>
+ <products>
+   <device id="0" series="EAX500">EAX500</device>
+   <device id="1" species="EAX2500">EAX2500</device>
+   <device id="2" species="V40">V40</device>
+ </products>

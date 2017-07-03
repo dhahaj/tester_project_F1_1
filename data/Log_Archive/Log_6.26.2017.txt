@@ -1,0 +1,128 @@
+Jun 26, 2017 11:01:53 AM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 11:1
+Jun 26, 2017 11:01:54 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 11:03:10 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 26, 2017 11:03:15 AM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 11:3
+Jun 26, 2017 11:03:16 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 11:03:39 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 26, 2017 11:03:42 AM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 11:3
+Jun 26, 2017 11:03:43 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 11:03:55 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 26, 2017 11:09:23 AM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 11:9
+Jun 26, 2017 11:09:24 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 11:10:05 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 26, 2017 11:18:54 AM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 11:18
+Jun 26, 2017 11:18:55 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 11:19:05 AM LoginThread$3 run
+INFO: Software closed
+Jun 26, 2017 11:22:15 AM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 11:22
+Jun 26, 2017 11:22:15 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 11:22:38 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 26, 2017 11:23:07 AM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 11:23
+Jun 26, 2017 11:23:08 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 11:23:56 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 26, 2017 12:08:29 PM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 12:8
+Jun 26, 2017 12:08:29 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 12:09:05 PM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 12:9
+Jun 26, 2017 12:09:06 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 12:09:23 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 26, 2017 12:11:40 PM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 12:11
+Jun 26, 2017 12:11:41 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 12:12:00 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 26, 2017 12:12:06 PM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 12:12
+Jun 26, 2017 12:12:58 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 26, 2017 12:13:01 PM LoginThread$3 run
+INFO: Software closed
+Jun 26, 2017 3:47:57 PM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 15:47
+Jun 26, 2017 3:47:58 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 3:48:40 PM tester_project_F1 setup
+INFO: Program started @ 6/26/2017 15:48
+Jun 26, 2017 3:48:41 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 26, 2017 3:49:28 PM LoginThread$3 run
+INFO: Software closed

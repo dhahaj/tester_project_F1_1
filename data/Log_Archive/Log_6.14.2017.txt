@@ -1,0 +1,112 @@
+Jun 14, 2017 2:06:54 PM tester_project_F1 setup
+INFO: Program started
+Jun 14, 2017 2:06:55 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 14, 2017 2:08:31 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 14, 2017 2:08:37 PM tester_project_F1 setup
+INFO: Program started
+Jun 14, 2017 2:10:05 PM tester_project_F1$4 run
+WARNING: Error programming EAX500, Error communicating with Port
+Jun 14, 2017 2:10:25 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Jun 14, 2017 2:11:03 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 1
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 14, 2017 2:13:02 PM tester_project_F1 setup
+INFO: Program started
+Jun 14, 2017 2:16:16 PM tester_project_F1 setup
+INFO: Program started
+Jun 14, 2017 2:16:55 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 14, 2017 2:17:32 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 14, 2017 2:18:26 PM tester_project_F1 testProcess
+INFO: V40 tested 	
+Jun 14, 2017 2:21:33 PM tester_project_F1 setup
+INFO: Program started
+Jun 14, 2017 2:22:37 PM tester_project_F1 testProcess
+INFO: V40 tested 	
+Jun 14, 2017 2:23:32 PM tester_project_F1 testProcess
+INFO: V40 tested 	
+Jun 14, 2017 2:23:38 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 2
+	*devices failed: 0
+	*total devices tested: 2
+	*devices programmed: 0
+	*
+Jun 14, 2017 2:30:44 PM tester_project_F1 setup
+INFO: Program started
+Jun 14, 2017 2:31:20 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 14, 2017 2:32:10 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 14, 2017 2:32:24 PM tester_project_F1$4 run
+WARNING: Error programming EAX2500, Error communicating with Port
+Jun 14, 2017 2:33:47 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 2
+	*devices failed: 0
+	*total devices tested: 2
+	*devices programmed: 0
+	*
+Jun 14, 2017 2:47:40 PM tester_project_F1 setup
+INFO: Program started
+Jun 14, 2017 2:48:20 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 14, 2017 2:49:35 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 14, 2017 2:50:29 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 14, 2017 2:51:55 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 3
+	*devices failed: 0
+	*total devices tested: 3
+	*devices programmed: 0
+	*
+Jun 14, 2017 2:53:22 PM tester_project_F1 setup
+INFO: Program started
+Jun 14, 2017 2:57:06 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 14, 2017 4:39:42 PM tester_project_F1 setup
+INFO: Program started
+Jun 14, 2017 4:41:27 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 14, 2017 4:45:32 PM tester_project_F1 setup
+INFO: Program started
+Jun 14, 2017 5:09:48 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*

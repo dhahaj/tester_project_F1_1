@@ -1,0 +1,64 @@
+Jun 23, 2017 2:15:43 PM tester_project_F1 setup
+INFO: Program started @ 6/23/2017 14:15
+Jun 23, 2017 2:15:44 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 23, 2017 2:16:16 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 23, 2017 2:17:19 PM tester_project_F1 setup
+INFO: Program started @ 6/23/2017 14:17
+Jun 23, 2017 2:17:20 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 23, 2017 2:32:22 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 23, 2017 2:41:35 PM tester_project_F1 setup
+INFO: Program started @ 6/23/2017 14:41
+Jun 23, 2017 2:42:47 PM tester_project_F1$4 run
+WARNING: Error programming EAX2500, Current Programming Task Failed
+Jun 23, 2017 2:46:49 PM tester_project_F1$4 run
+INFO: Programming initiated by DMH -- EAX2500 Serial#:45(0000002D)
+Jun 23, 2017 2:47:11 PM tester_project_F1$4 run
+WARNING: Error programming EAX2500, Current Programming Task Failed
+Jun 23, 2017 2:47:28 PM tester_project_F1$4 run
+INFO: Programming initiated by DMH -- EAX2500 Serial#:46(0000002E)
+Jun 23, 2017 2:49:14 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 23, 2017 2:50:24 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 23, 2017 2:53:46 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 23, 2017 2:54:14 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 23, 2017 2:57:22 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 23, 2017 2:58:28 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 23, 2017 2:59:15 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 23, 2017 3:00:07 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 23, 2017 3:00:36 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 23, 2017 3:19:44 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 23, 2017 3:19:55 PM tester_project_F1$4 run
+INFO: Programming initiated by DMH -- EAX2500 Serial#:47(0000002F)
+Jun 23, 2017 3:21:11 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 9
+	*devices failed: 1
+	*total devices tested: 10
+	*devices programmed: 3
+	*

@@ -1,0 +1,774 @@
+Jun 20, 2017 9:13:28 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 9:13
+Jun 20, 2017 9:13:28 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 9:14:00 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 9:15:11 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 9:15
+Jun 20, 2017 9:15:12 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 9:15:36 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 9:17:15 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 9:17
+Jun 20, 2017 9:17:15 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 9:17:22 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 9:18:57 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 9:18
+Jun 20, 2017 9:18:58 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 9:19:02 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 9:26:45 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 9:26
+Jun 20, 2017 9:26:46 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 9:26:48 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 9:29:40 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 9:29
+Jun 20, 2017 9:29:41 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 9:29:42 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 9:39:08 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 9:39
+Jun 20, 2017 9:52:41 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 9:52
+Jun 20, 2017 9:53:04 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 9:53
+Jun 20, 2017 9:53:30 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 9:53
+Jun 20, 2017 10:16:21 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:16
+Jun 20, 2017 10:16:22 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:16:30 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 10:16:33 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:16
+Jun 20, 2017 10:16:33 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:16:37 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:20:51 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:20
+Jun 20, 2017 10:20:51 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:21:06 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 10:21:09 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:21
+Jun 20, 2017 10:21:09 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:21:11 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:23:45 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:23
+Jun 20, 2017 10:23:46 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:23:48 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:24:28 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:24
+Jun 20, 2017 10:24:28 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:24:30 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:25:57 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:25
+Jun 20, 2017 10:25:58 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:25:59 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:26:56 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:26
+Jun 20, 2017 10:26:56 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:26:57 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:27:30 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:27
+Jun 20, 2017 10:27:31 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:27:33 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:27:43 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:27
+Jun 20, 2017 10:27:43 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:27:45 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:29:44 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:29
+Jun 20, 2017 10:29:45 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:29:46 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:30:12 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:30
+Jun 20, 2017 10:30:12 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:30:24 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 10:30:26 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:30
+Jun 20, 2017 10:30:27 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:30:44 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:31:01 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:31
+Jun 20, 2017 10:31:02 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:31:03 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:32:00 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:32
+Jun 20, 2017 10:32:00 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:32:02 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:32:53 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:32
+Jun 20, 2017 10:32:54 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:32:55 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:47:47 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:47
+Jun 20, 2017 10:47:47 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 10:47:49 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 10:51:01 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 10:51
+Jun 20, 2017 10:51:02 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:00:22 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:0
+Jun 20, 2017 11:00:23 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:00:24 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 11:03:06 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:3
+Jun 20, 2017 11:03:06 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:03:08 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 11:06:02 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:6
+Jun 20, 2017 11:06:02 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:06:12 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 11:11:42 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:11
+Jun 20, 2017 11:11:42 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:11:44 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 11:19:19 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:19
+Jun 20, 2017 11:19:20 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:19:21 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 11:20:13 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:20
+Jun 20, 2017 11:20:14 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:20:15 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 11:21:32 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:21
+Jun 20, 2017 11:21:33 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:21:40 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 11:21:43 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:21
+Jun 20, 2017 11:21:44 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:21:45 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 11:24:17 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:24
+Jun 20, 2017 11:24:18 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:24:25 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 11:24:28 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:24
+Jun 20, 2017 11:24:29 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:24:34 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 11:26:16 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:26
+Jun 20, 2017 11:26:16 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:26:25 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 11:27:05 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:27
+Jun 20, 2017 11:27:05 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:28:10 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 11:28:23 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:28
+Jun 20, 2017 11:28:23 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:29:42 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 11:33:49 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:33
+Jun 20, 2017 11:33:50 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:33:52 AM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 11:35:57 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:35
+Jun 20, 2017 11:35:57 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:36:40 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 11:36:43 AM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 11:36
+Jun 20, 2017 11:36:43 AM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 11:37:11 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:18:23 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:18
+Jun 20, 2017 12:18:24 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:18:32 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 12:19:23 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:19
+Jun 20, 2017 12:19:24 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:20:02 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:20:23 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:20
+Jun 20, 2017 12:20:24 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:20:26 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 12:25:31 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:25
+Jun 20, 2017 12:25:31 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:25:40 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:26:27 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:26
+Jun 20, 2017 12:26:27 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:26:34 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:26:43 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:26
+Jun 20, 2017 12:26:44 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:26:47 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 12:28:16 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:28
+Jun 20, 2017 12:28:16 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:28:40 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:29:45 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:29
+Jun 20, 2017 12:29:45 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:29:48 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 12:30:33 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:30
+Jun 20, 2017 12:30:33 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:30:42 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:30:45 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 12:31:08 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:31
+Jun 20, 2017 12:31:09 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:31:11 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 12:31:38 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:31
+Jun 20, 2017 12:31:39 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:31:57 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:32:20 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:32
+Jun 20, 2017 12:32:21 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:32:38 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:34:48 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:34
+Jun 20, 2017 12:34:49 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:36:59 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:41:57 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:41
+Jun 20, 2017 12:41:57 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:43:23 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:44:20 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:44
+Jun 20, 2017 12:44:21 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:44:46 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:45:04 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:45
+Jun 20, 2017 12:45:04 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:47:27 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:47:53 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:47
+Jun 20, 2017 12:47:53 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:48:22 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:54:45 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:54
+Jun 20, 2017 12:54:45 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:55:20 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:55:23 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:55
+Jun 20, 2017 12:55:23 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:55:31 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:56:33 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:56
+Jun 20, 2017 12:56:33 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:56:46 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 12:56:55 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 12:56
+Jun 20, 2017 12:56:56 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 12:57:09 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 1:04:06 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 13:4
+Jun 20, 2017 1:04:07 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 1:05:26 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 1:06:20 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 13:6
+Jun 20, 2017 1:06:20 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 1:06:54 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 1:07:45 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 13:7
+Jun 20, 2017 1:07:46 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 1:09:13 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 3:31:55 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 15:31
+Jun 20, 2017 3:31:55 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 3:32:42 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 3:32:44 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 15:32
+Jun 20, 2017 3:32:45 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 3:33:11 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 3:33:38 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 15:33
+Jun 20, 2017 3:33:39 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 3:34:09 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 3:35:31 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 3:35:36 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 15:35
+Jun 20, 2017 3:35:36 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 3:35:59 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 3:39:18 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 15:39
+Jun 20, 2017 3:40:59 PM tester_project_F1$4 run
+WARNING: Error programming EAX2500, Error communicating with Port
+Jun 20, 2017 3:41:16 PM tester_project_F1$4 run
+WARNING: Error programming EAX2500, Current Programming Task Failed
+Jun 20, 2017 3:41:33 PM tester_project_F1$4 run
+INFO: Programming initiated by DMH -- EAX2500 Serial#:0(00000000)
+Jun 20, 2017 3:41:39 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 1
+	*
+Jun 20, 2017 3:41:52 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 15:41
+Jun 20, 2017 3:42:49 PM tester_project_F1$4 run
+INFO: Programming initiated by DMH -- EAX2500 Serial#:1(00000001)
+Jun 20, 2017 3:44:58 PM tester_project_F1$4 run
+INFO: Programming initiated by DMH -- EAX2500 Serial#:2(00000002)
+Jun 20, 2017 3:45:11 PM tester_project_F1$4 run
+INFO: Programming initiated by DMH -- EAX2500 Serial#:3(00000003)
+Jun 20, 2017 3:46:15 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 20, 2017 3:46:36 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 20, 2017 3:46:41 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 2
+	*devices failed: 0
+	*total devices tested: 2
+	*devices programmed: 3
+	*
+Jun 20, 2017 4:21:02 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 16:21
+Jun 20, 2017 4:22:45 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 16:22
+Jun 20, 2017 4:24:26 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 4:24:29 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 16:24
+Jun 20, 2017 4:27:07 PM tester_project_F1$4 run
+INFO: Programming initiated by DMH -- EAX2500 Serial#:44(0000002C)
+Jun 20, 2017 4:27:44 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 20, 2017 4:28:07 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 20, 2017 4:28:27 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 1
+	*devices failed: 1
+	*total devices tested: 2
+	*devices programmed: 1
+	*
+Jun 20, 2017 4:28:28 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 4:36:20 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 16:36
+Jun 20, 2017 4:40:26 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 16:40
+Jun 20, 2017 4:40:32 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 4:42:06 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 16:42
+Jun 20, 2017 4:42:13 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 4:52:00 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 16:52
+Jun 20, 2017 4:52:52 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 4:57:16 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 16:57
+Jun 20, 2017 4:57:47 PM tester_project_F1 testProcess
+INFO: EAX-300/500 tested 	
+Jun 20, 2017 4:57:56 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 20, 2017 5:00:36 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 17:0
+Jun 20, 2017 5:00:43 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 5:01:07 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 17:1
+Jun 20, 2017 5:01:12 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 5:01:46 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 17:1
+Jun 20, 2017 5:01:50 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 5:03:06 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 17:3
+Jun 20, 2017 5:03:13 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 17:3
+Jun 20, 2017 5:03:25 PM LoginThread$3 run
+INFO: Software closed
+Jun 20, 2017 5:34:43 PM tester_project_F1 setup
+INFO: Program started @ 6/20/2017 17:34
+Jun 20, 2017 5:34:43 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 20, 2017 5:35:12 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*

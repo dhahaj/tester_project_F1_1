@@ -1,0 +1,21 @@
+Equipment Needed:
+1) T-683 Test Base
+2) V40/ADV Test Head
+3) 104010-X PWA
+<special equip>
+
+Setup instructions for the V40:
+1) Head unit is connected and secured to the test base.
+2) PWA is clamped down on the head unit.
+3) Test base is powered and blue LED is ON.
+4) Test unit is connected to the computer, Serial COM LED is flasing.
+4) Battery clip on PWA is connected to the test base.
+5) All three slide switches should be OFF.
+<special instructions>
+
+
+Click "Program Device" in the Action menu or press "p"
+  to begin programming.
+
+After programming, click "Test Device" in the Action menu
+  or press "t" to begin testing

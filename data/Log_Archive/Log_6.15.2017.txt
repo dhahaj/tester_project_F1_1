@@ -1,0 +1,110 @@
+Jun 15, 2017 9:59:01 AM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 10:00:56 AM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 15, 2017 10:01:12 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 15, 2017 10:34:11 AM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 10:34:17 AM LoginThread$3 run
+INFO: Software closed
+Jun 15, 2017 10:36:13 AM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 10:36:21 AM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 15, 2017 10:38:01 AM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 10:38:06 AM LoginThread$3 run
+INFO: Software closed
+Jun 15, 2017 10:47:04 AM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 10:47:44 AM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 10:53:03 AM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:29:18 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:31:32 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:32:03 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:33:08 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:33:48 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:38:23 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:38:31 PM LoginThread$3 run
+INFO: Software closed
+Jun 15, 2017 2:43:03 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:43:09 PM LoginThread$3 run
+INFO: Software closed
+Jun 15, 2017 2:44:11 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:44:38 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 15, 2017 2:44:48 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:44:57 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 15, 2017 2:45:05 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 2:46:06 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 15, 2017 3:13:00 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 3:13:05 PM LoginThread$3 run
+INFO: Software closed
+Jun 15, 2017 3:26:22 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 3:26:28 PM LoginThread$3 run
+INFO: Software closed
+Jun 15, 2017 3:26:40 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 3:26:46 PM LoginThread$3 run
+INFO: Software closed
+Jun 15, 2017 3:27:53 PM tester_project_F1 setup
+INFO: Program started
+Jun 15, 2017 3:28:46 PM tester_project_F1 testProcess
+INFO: V40 tested 	
+Jun 15, 2017 3:28:56 PM LoginThread logout
+INFO: 
+User DMH logged off
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 15, 2017 3:28:58 PM LoginThread$3 run
+INFO: Software closed

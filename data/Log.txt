@@ -1,0 +1,40 @@
+Jun 30, 2017 2:59:03 PM tester_project_F1_1 setup
+INFO: Program started @ 6/30/2017 14:59
+Jun 30, 2017 2:59:22 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 30, 2017 2:59:25 PM tester_project_F1_1 setup
+INFO: Program started @ 6/30/2017 14:59
+Jun 30, 2017 2:59:52 PM tester_project_F1_1$4 run
+WARNING: Error programming EAX2500, Current Programming Task Failed
+Jun 30, 2017 3:00:11 PM tester_project_F1_1$4 run
+WARNING: Error programming EAX2500, Current Programming Task Failed
+Jun 30, 2017 3:00:32 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2500 Serial#:27(0000001B)
+Jun 30, 2017 3:00:55 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 30, 2017 3:01:55 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2500 Serial#:28(0000001C)
+Jun 30, 2017 3:02:18 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 30, 2017 3:03:07 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2500 Serial#:29(0000001D)
+Jun 30, 2017 3:03:23 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 30, 2017 3:03:53 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 30, 2017 3:04:12 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 30, 2017 3:04:17 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 5
+	*devices failed: 0
+	*total devices tested: 5
+	*devices programmed: 3
+	*

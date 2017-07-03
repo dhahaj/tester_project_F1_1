@@ -1,0 +1,54 @@
+Jun 22, 2017 1:05:53 PM tester_project_F1 setup
+INFO: Program started @ 6/22/2017 13:5
+Jun 22, 2017 1:06:07 PM tester_project_F1$4 run
+WARNING: Error programming EAX2500, Error communicating with Port
+Jun 22, 2017 1:06:11 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 22, 2017 1:11:33 PM tester_project_F1 setup
+INFO: Program started @ 6/22/2017 13:11
+Jun 22, 2017 1:11:34 PM tester_project_F1 setupArduino
+WARNING: COM Port was not found!
+Jun 22, 2017 1:11:46 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 22, 2017 1:12:08 PM tester_project_F1 setup
+INFO: Program started @ 6/22/2017 13:12
+Jun 22, 2017 1:14:57 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 22, 2017 1:16:38 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 22, 2017 1:19:43 PM tester_project_F1 setup
+INFO: Program started @ 6/22/2017 13:19
+Jun 22, 2017 1:20:13 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 22, 2017 1:32:09 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 22, 2017 1:33:13 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 22, 2017 1:33:34 PM tester_project_F1 testProcess
+INFO: EAX-2500 tested 	
+Jun 22, 2017 1:33:38 PM tester_project_F1$3 run
+INFO: 
+User DMH closed software
+	*devices passed: 4
+	*devices failed: 0
+	*total devices tested: 4
+	*devices programmed: 0
+	*

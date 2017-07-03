@@ -1,0 +1,20 @@
+Equipment Needed:
+1) T-683 Test Base
+2) EAX-300/500 Test Head
+3) Magnet
+3) 102605 PWA
+
+Setup instructions for the EAX-300 and EAX-500: 
+1) Head unit is connected and secured to the test base.
+2) PWA is clamped down on the head unit.
+3) Test base is powered and blue LED is ON.
+4) Test unit is connected to the computer, Serial COM LED is flasing.
+5) Battery clip on PWA is connected to the test base.
+6) Both slide switches should be OFF.
+
+
+Click "Program Device" in the Action menu or press "p"
+  to begin programming.
+
+After programming, click "Test Device" in the Action menu
+  or press "t" to begin testing

@@ -1,0 +1,534 @@
+Jun 28, 2017 11:47:27 AM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 11:47
+Jun 28, 2017 11:48:09 AM tester_project_F1_1$4 run
+WARNING: Error programming EAX2545, Unknown Error has Occurred
+Jun 28, 2017 11:48:25 AM tester_project_F1_1$4 run
+INFO: Programming initiated by SM -- EAX2545 Serial#:4(00000004)
+Jun 28, 2017 11:50:39 AM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 1
+	*
+Jun 28, 2017 11:52:30 AM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 11:52
+Jun 28, 2017 11:52:48 AM LoginThread$3 run
+INFO: Software closed
+Jun 28, 2017 12:19:45 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:19
+Jun 28, 2017 12:20:12 PM tester_project_F1_1$4 run
+INFO: Programming initiated by SM -- EAX2500 Serial#:5(00000005)
+Jun 28, 2017 12:20:24 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:20:45 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:21:06 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:21:30 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:23:15 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:23:40 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:24:00 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:24:33 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:24:51 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:25:08 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:25:30 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:25:32 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 11
+	*devices failed: 0
+	*total devices tested: 11
+	*devices programmed: 1
+	*
+Jun 28, 2017 12:42:36 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:42
+Jun 28, 2017 12:43:33 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:43
+Jun 28, 2017 12:44:13 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:44
+Jun 28, 2017 12:44:28 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:44
+Jun 28, 2017 12:44:56 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:44
+Jun 28, 2017 12:45:27 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:45
+Jun 28, 2017 12:45:45 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:45
+Jun 28, 2017 12:45:52 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:45
+Jun 28, 2017 12:46:03 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:46
+Jun 28, 2017 12:46:25 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 12:46:27 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:46
+Jun 28, 2017 12:46:56 PM tester_project_F1_1$4 run
+INFO: Programming initiated by SM -- EAX2500 Serial#:6(00000006)
+Jun 28, 2017 12:47:01 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 1
+	*
+Jun 28, 2017 12:48:42 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:48
+Jun 28, 2017 12:49:05 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:49:25 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:50:29 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:50
+Jun 28, 2017 12:50:57 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:50:59 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 12:51:25 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:51
+Jun 28, 2017 12:51:47 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:52:04 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:52:13 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 2
+	*devices failed: 0
+	*total devices tested: 2
+	*devices programmed: 0
+	*
+Jun 28, 2017 12:52:17 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:52
+Jun 28, 2017 12:52:40 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:52:43 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 28, 2017 12:53:01 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:53
+Jun 28, 2017 12:53:32 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:53:50 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:53:59 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 2
+	*devices failed: 0
+	*total devices tested: 2
+	*devices programmed: 0
+	*
+Jun 28, 2017 12:54:18 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:54
+Jun 28, 2017 12:54:49 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:54:58 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 28, 2017 12:55:41 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:55
+Jun 28, 2017 12:56:12 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:56:47 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:57:03 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:57:07 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 3
+	*devices failed: 0
+	*total devices tested: 3
+	*devices programmed: 0
+	*
+Jun 28, 2017 12:57:31 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 12:57
+Jun 28, 2017 12:58:02 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 12:58:12 PM tester_project_F1_1$4 run
+INFO: Programming initiated by SM -- EAX2500 Serial#:7(00000007)
+Jun 28, 2017 12:58:30 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 1:06:22 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 1:06:26 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 3
+	*devices failed: 0
+	*total devices tested: 3
+	*devices programmed: 1
+	*
+Jun 28, 2017 1:07:31 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:7
+Jun 28, 2017 1:08:12 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 1:08:29 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 1:08:40 PM tester_project_F1_1$4 run
+INFO: Programming initiated by SM -- EAX2500 Serial#:8(00000008)
+Jun 28, 2017 1:08:56 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 1:09:00 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 3
+	*devices failed: 0
+	*total devices tested: 3
+	*devices programmed: 1
+	*
+Jun 28, 2017 1:09:23 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:9
+Jun 28, 2017 1:09:47 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 1:09:49 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 28, 2017 1:10:31 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:10
+Jun 28, 2017 1:10:55 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 1:11:01 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 28, 2017 1:16:26 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:16
+Jun 28, 2017 1:16:32 PM LoginThread$3 run
+INFO: Software closed
+Jun 28, 2017 1:17:57 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:17
+Jun 28, 2017 1:18:02 PM LoginThread$3 run
+INFO: Software closed
+Jun 28, 2017 1:20:21 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:20
+Jun 28, 2017 1:20:46 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:20
+Jun 28, 2017 1:21:36 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:21
+Jun 28, 2017 1:21:52 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 1:22:42 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:22
+Jun 28, 2017 1:22:49 PM LoginThread$3 run
+INFO: Software closed
+Jun 28, 2017 1:25:14 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:25
+Jun 28, 2017 1:25:22 PM LoginThread$3 run
+INFO: Software closed
+Jun 28, 2017 1:27:08 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 13:27
+Jun 28, 2017 1:28:10 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 1:28:15 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 28, 2017 2:51:59 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 14:51
+Jun 28, 2017 2:52:42 PM tester_project_F1_1$4 run
+INFO: Programming initiated by SM -- EAX2500 Serial#:9(00000009)
+Jun 28, 2017 3:04:40 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:4
+Jun 28, 2017 3:06:41 PM tester_project_F1_1$3 run
+INFO: 
+User SM closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 3:06:45 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:6
+Jun 28, 2017 3:07:16 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2500 Serial#:9(00000009)
+Jun 28, 2017 3:07:37 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 3:09:04 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX300 Serial#:10(0000000A)
+Jun 28, 2017 3:09:19 PM tester_project_F1_1 testProcess
+INFO: EAX-300/500 tested 	
+Jun 28, 2017 3:10:00 PM tester_project_F1_1 testProcess
+INFO: EAX-300/500 tested 	
+Jun 28, 2017 3:10:38 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2500 Serial#:11(0000000B)
+Jun 28, 2017 3:10:59 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 3:11:51 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2500 Serial#:12(0000000C)
+Jun 28, 2017 3:12:54 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2500 Serial#:13(0000000D)
+Jun 28, 2017 3:13:11 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 4
+	*devices failed: 0
+	*total devices tested: 4
+	*devices programmed: 5
+	*
+Jun 28, 2017 3:15:15 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:15
+Jun 28, 2017 3:15:37 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2500 Serial#:14(0000000E)
+Jun 28, 2017 3:16:31 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2500 Serial#:15(0000000F)
+Jun 28, 2017 3:16:38 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 2
+	*
+Jun 28, 2017 3:16:42 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:16
+Jun 28, 2017 3:16:56 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 3:17:06 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:17
+Jun 28, 2017 3:19:08 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 3:19:39 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:19
+Jun 28, 2017 3:20:00 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 3:20:03 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:20
+Jun 28, 2017 3:20:19 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 3:20:21 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:20
+Jun 28, 2017 3:20:49 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 3:22:00 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 28, 2017 3:22:06 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:22
+Jun 28, 2017 3:23:47 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 3:24:13 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:24
+Jun 28, 2017 3:24:39 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 3:26:11 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 15:26
+Jun 28, 2017 5:25:44 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 17:25
+Jun 28, 2017 5:26:53 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2500 Serial#:16(00000010)
+Jun 28, 2017 5:27:25 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 5:27:28 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 1
+	*
+Jun 28, 2017 5:27:46 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 17:27
+Jun 28, 2017 5:28:07 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- V40xx00 Serial#:17(00000011)
+Jun 28, 2017 5:28:37 PM tester_project_F1_1 testProcess
+INFO: V40 tested 	
+Jun 28, 2017 5:29:26 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 17:29
+Jun 28, 2017 5:29:51 PM tester_project_F1_1 testProcess
+INFO: EAX-300/500 tested 	
+Jun 28, 2017 5:29:54 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 28, 2017 5:30:11 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 17:30
+Jun 28, 2017 5:30:38 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 5:32:31 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 17:32
+Jun 28, 2017 5:32:49 PM tester_project_F1_1$4 run
+INFO: Programming initiated by TEST -- EAX2505 Serial#:17(00000011)
+Jun 28, 2017 5:33:16 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 5:33:29 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 5:33:52 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 5:34:18 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 3
+	*devices failed: 0
+	*total devices tested: 3
+	*devices programmed: 1
+	*
+Jun 28, 2017 5:34:21 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 17:34
+Jun 28, 2017 5:34:34 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 5:34:36 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 17:34
+Jun 28, 2017 5:35:00 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 5:35:03 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 1
+	*devices failed: 0
+	*total devices tested: 1
+	*devices programmed: 0
+	*
+Jun 28, 2017 5:40:00 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 17:40
+Jun 28, 2017 5:40:29 PM LoginThread logout
+INFO: 
+User TEST logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 5:41:01 PM tester_project_F1_1$4 run
+INFO: Programming initiated by SDO -- EAX2500 Serial#:18(00000012)
+Jun 28, 2017 5:41:24 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 5:41:36 PM tester_project_F1_1 testProcess
+INFO: EAX-2500 tested 	
+Jun 28, 2017 5:42:05 PM tester_project_F1_1$3 run
+INFO: 
+User SDO closed software
+	*devices passed: 2
+	*devices failed: 0
+	*total devices tested: 2
+	*devices programmed: 1
+	*
+Jun 28, 2017 5:42:57 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 17:42
+Jun 28, 2017 5:43:07 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+Jun 28, 2017 5:45:54 PM tester_project_F1_1 setup
+INFO: Program started @ 6/28/2017 17:45
+Jun 28, 2017 5:46:02 PM tester_project_F1_1$3 run
+INFO: 
+User TEST closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*

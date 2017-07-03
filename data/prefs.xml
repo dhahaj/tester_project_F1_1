@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="&lt;unnamed&gt;">
+      <map>
+        <entry key="LAST_USER" value="12"/>
+        <entry key="QW_PATH" value="C:\pictools\qw.exe"/>
+        <entry key="COM_PORT" value="COM11"/>
+        <entry key="LAST_DELAY" value="2191"/>
+        <entry key="FIRMWARE_FOLDER" value="C:\Users\dhaha\Documents\Processing\tester_project_F1_1\data\firmware"/>
+        <entry key="EAX300_PATH" value="C:\Users\dhaha\Documents\Processing\tester_project_F1\data\firmware\EAX300_5.9.OBJ"/>
+        <entry key="EAX300_FILE" value="EAX300_5.9.OBJ"/>
+        <entry key="EAX300_EXT" value="_5.9.OBJ"/>
+        <entry key="WIDTH_SCALER" value="70"/>
+        <entry key="HEIGHT_SCALER" value="85"/>
+        <entry key="LAST_SERIAL" value="29"/>
+        <entry key="EAX500_PATH" value="C:\Users\dhaha\Documents\Processing\tester_project_F1\data\firmware\EAX500_591.OBJ"/>
+        <entry key="EAX500_FILE" value="EAX500_591.OBJ"/>
+        <entry key="EAX500_EXT" value="_591.OBJ"/>
+        <entry key="EAX2500_PATH" value="C:\Users\dhaha\Documents\Processing\tester_project_F1\data\firmware\EAX2500_73.OBJ"/>
+        <entry key="EAX2500_FILE" value="EAX2500_73.OBJ"/>
+        <entry key="EAX2500_EXT" value="_73.OBJ"/>
+        <entry key="V40_PATH" value="C:\Users\dhaha\Documents\Processing\tester_project_F1\data\firmware\v40xx00_54.OBJ"/>
+        <entry key="V40_FILE" value="v40xx00_54.OBJ"/>
+        <entry key="V40_EXT" value="_54.OBJ"/>
+        <entry key="QW_ARGS" value="/D16F627 /A /X"/>
+        <entry key="QW_ARUN" value="/A"/>
+        <entry key="QW_AEXIT" value="/X"/>
+        <entry key="QW_CHIP" value="/D16F627"/>
+        <entry key="EAX3500_PATH" value="C:\Users\dhaha\Documents\Processing\tester_project_F1\data\firmware\EAX3500_A0.OBJ"/>
+        <entry key="EAX3500_FILE" value="EAX3500_A0.OBJ"/>
+        <entry key="EAX3500_EXT" value="_A0.OBJ"/>
+        <entry key="COM" value="1"/>
+      </map>
+    </node>
+  </root>
+</preferences>
